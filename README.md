@@ -173,11 +173,3 @@ Projeto desenvolvido por **Nathalia De Bellis Gomes Anselmo**, com foco em desen
 
 ---
 
-## 🚀 Próximos passos
-
-* Integração com CI/CD (GitHub Actions)
-* Geração de relatórios HTML
-* Testes com dados dinâmicos (Faker)
-* Aumento da cobertura de testes
-
----
