@@ -38,15 +38,15 @@ selenium-web-automation-tests
 │   └── checkout_page.py
 │
 ├── tests/                 # Casos de teste
-│   ├── CT01_test_valid_login.py
-│   ├── CT02_test_login_error.py
-│   ├── CT03_test_locked_used_login.py
-│   ├── CT04_test_cart_add_products.py
-│   ├── CT05_test_add_all_products_to_cart.py
-│   ├── CT06_test_checkout_sucess.py
-│   ├── CT07_test_checkout_missing_fields.py
-│   ├── CT08_test_remove_product_from_cart.py
-│   └── CT09_test_sort_products_by_price.py
+│   ├── test_CT01_valid_login.py
+│   ├── test_CT02_login_error.py
+│   ├── test_CT03_locked_used_login.py
+│   ├── test_CT04_cart_add_products.py
+│   ├── test_CT05_add_all_products_to_cart.py
+│   ├── test_CT06_checkout_sucess.py
+│   ├── test_CT07_checkout_missing_fields.py
+│   ├── test_CT08_remove_product_from_cart.py
+│   └── test_CT09_sort_products_by_price.py
 │
 ├── reports/               # Relatórios e screenshots
 ├── conftest.py            # Configuração de fixtures
@@ -173,11 +173,3 @@ Projeto desenvolvido por **Nathalia De Bellis Gomes Anselmo**, com foco em desen
 
 ---
 
-## 🚀 Próximos passos
-
-* Integração com CI/CD (GitHub Actions)
-* Geração de relatórios HTML
-* Testes com dados dinâmicos (Faker)
-* Aumento da cobertura de testes
-
----
