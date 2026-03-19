@@ -61,7 +61,7 @@ selenium-web-automation-tests
 ### 1. Clonar o repositório
 
 ```bash
-git clone <https://github.com/nathbellis/selenium-web-automation-tests>
+git clone <https://github.com/nathbellis/test-automation-framework-selenium>
 cd test-automation-framework-selenium
 ```
 
